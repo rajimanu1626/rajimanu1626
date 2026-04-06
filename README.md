@@ -1,8 +1,8 @@
 # Hey, I'm Rajesh Venkatesan 👋
 
-**Senior Systems Analyst** crafting scalable backend systems and full-stack applications from Vellore, India.
+**Senior Systems Analyst & Full-Stack Engineer** building scalable backend systems, AI-powered platforms, and full-stack applications from Vellore, India.
 
-4+ years of building and breaking things in production — from scaling APIs to handle **10,000+ concurrent requests** to Dockerizing entire application stacks and slashing deployment times by **87.5%**.
+5+ years of crafting production software — from scaling APIs to handle **10,000+ concurrent requests**, to designing an **AI recruitment automation platform** with RAG pipelines and LLMs, to Dockerizing entire application stacks and slashing deployment times by **87.5%**.
 
 ---
 
@@ -10,10 +10,20 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**GenAI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A154B?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat&logoColor=white)
 
 **Frontend**
 
@@ -27,6 +37,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Databases**
@@ -35,6 +46,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -48,8 +61,9 @@
 
 ### Things I'm proud of
 
+- **AI Recruitment Automation Platform** — Designed an end-to-end AI-powered system with web crawlers, RAG pipelines, and LLM-driven email generation that reduced manual HR effort by ~80%
 - **50x API scaling** — Architected infrastructure from 200 QPS to 10,000+ concurrent requests with AWS Auto Scaling and multi-zone failover
-- **Custom API gateway** — Built a rate limiter with NGINX + Lua (OpenResty) featuring dual-layer DDOS protection
+- **Custom API gateway** — Built a rate limiter with NGINX + Lua (OpenResty) featuring dual-layer DDoS protection
 - **GIS platform** — Engineered a full-stack geospatial app serving 1,000+ daily users with supply chain analytics
 - **DevOps transformation** — Dockerized microservices + CI/CD pipelines, cutting deployment from 2 hours to 15 minutes
 - **Team leadership** — Mentored a team of 3 developers with structured code reviews and agile practices
